@@ -1,0 +1,11 @@
+* {
+    background-color: #fbffe3;
+}
+
+h1 {
+    font-family: 'Inter';
+    font-size: 28px;
+    position: absolute;
+    top: 20px;
+    left: 140px;
+}

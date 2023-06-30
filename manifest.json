@@ -1,0 +1,27 @@
+{
+    "short_name": "Waszz",
+    "name": "Wasszz",
+    "theme_color": "#fbffe3",
+    "background_color": "#000000",
+    "display": "fullscreen",
+    "Scope": "/",
+    "orientation": "portrait",
+    "icons": [
+      {
+        "src": "https://cdn.discordapp.com/attachments/951919811737292824/1124486122320437378/48.png",
+        "type": "image/png",
+        "sizes": "48x48"
+      },
+      {
+        "src": "https://cdn.discordapp.com/attachments/951919811737292824/1124486122660167781/96.png",
+        "type": "image/png",
+        "sizes": "96x96"
+      },
+      {
+        "src": "https://cdn.discordapp.com/attachments/951919811737292824/1124486122928619591/192.png",
+        "type": "image/png",
+        "sizes": "192x192"
+      }
+    ],
+    "start_url": "/"
+  }
